@@ -1,4 +1,4 @@
-connection: "chronicle"
+connection: "google_chronicle_demo"
 
 # include all the views
 include: "/views/**/*.view.lkml"
